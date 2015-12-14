@@ -1,0 +1,1 @@
+socialanalytics is an HTTP API from LinksAlpha.com. API enables developers to get analytic information and data for news links. This includes Tweets, clicks, and sharing activity on the social web.
